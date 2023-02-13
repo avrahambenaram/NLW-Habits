@@ -4,7 +4,11 @@
 
 Código do evento NLW Habits, ocorrido em Janeiro/2023
 
-O projeto foi desenvolvido com:
+# 👨‍💻 Tecnologias usadas
   - Vite (React JS)
   - React Native
   - Fastify
+
+# 🔗 Projeto da rocketseat
+  - <a href="https://www.figma.com/community/file/1195326661124171197" target="_blank">Figma</a>
+  - <a href="https://blog.rocketseat.com.br/tag/nlw/" target="_blank">Site Oficial NLW</a>
